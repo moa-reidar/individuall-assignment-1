@@ -1,0 +1,29 @@
+
+:root {
+    --color-text: #333;
+    --color-background: #f9f9f9;
+    --color-primary: #28a745;
+    --color-primary-hover: #218838;
+    --color-header: #333;
+    --color-header-text: #fff;
+    --color-accent: #ffdd57;
+  
+    
+    --font-family-regular:"Roboto-Regular";
+    --font-family-bold:"Roboto-Bold";
+    --font-family-new:"Oswald";
+
+    --font-size-large: 2em;
+    --font-size-medium: 1.8em;
+    --font-size-small: 1.4em;
+  
+    --border-radius: 8px;
+    --box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    --box-shadow-header: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+    --padding-default: 1em;
+    --padding-form: 12px;
+    --margin-large: 2em;
+    --margin-medium: 1em;
+  }
+  
