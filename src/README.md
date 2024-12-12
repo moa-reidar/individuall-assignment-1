@@ -1,3 +1,9 @@
+
+link to github: https://github.com/moa-reidar/individuall-assignment-1.git
+
+link to netlify: https://675a2ae1577d84ac08b2c8b5--gleeful-parfait-a36478.netlify.app/
+
+
 # TechNova Pro X - Web Page Assignment
 
 This project is a simple webpage assignment that demonstrates fundamental HTML and CSS concepts. The webpage consists of two pages:
